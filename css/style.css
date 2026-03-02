@@ -144,4 +144,9 @@ body {
     .contenido-evento {
         order: 1;
     }
+
+    .imagen-evento img {
+        width: 100%;
+        height: auto;
+    }
 }
