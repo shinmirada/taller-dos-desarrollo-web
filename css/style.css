@@ -98,10 +98,7 @@ body {
 
 }
 
-.tachado {
-    text-decoration: line-through;
-    color: #1e3c72;
-}
+
 
 
 .titulo-evento h2:last-of-type {
@@ -158,4 +155,13 @@ body {
         height: auto;
     }
 
+}
+
+.titulo-evento h3{
+    font-size: 1.5em;
+    color: #e67e22;
+    text-align: center;
+    margin-top: 0;
+    font-style: italic;
+    text-decoration: line-through;
 }
